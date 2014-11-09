@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="Astro140.css" />
+    </head>
+    
+    <body>
+        <!-- Right below is an image of the sun -->
+        <img id="sun" src="./SUN.png"> 
+        <!-- <img id='sun' src='http://goo.gl/PmbqZa'> -->
+	
+	<!-- insert the mercury  -->
+
+	<div id='mercury-orbit'>
+	  <img id="mercury" src="./Mercury.png" />
+	</div>
+
+	<!-- insert Venus  -->
+        <div id='venus-orbit'>
+        <img id="venus" src="./venus2.png" />
+        </div>
+	
+        <!-- Insert the 'earth' on the next line -->
+        <div id='earth-orbit'>
+          <a href="http://en.wikipedia.org/wiki/Earth"> <img id="earth" src="./Earth2.png"> </a>
+        </div>
+
+	<!-- Insert  Mars -->
+
+	<div id='mars-orbit'>
+        <img id="mars" src="./mars02.png">
+        </div>
+
+	    
+	
+        
+    </body>
+    
+</html>
