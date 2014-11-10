@@ -260,6 +260,46 @@ html, body {
 }
 
 
+
+
+#jupiter {
+    /* Style your earth */
+    position: absolute; 
+    top: 0%;
+    left: 50%;
+    
+    height: 75px;
+    width: 75px;
+    margin-left: -25px;
+    margin-top: -25px;
+}
+
+#jupiter-orbit {
+    /* For Section #2 */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    width: 900px;
+    height: 900px;
+    margin-top: -450px;
+    margin-left: -450px;
+
+    border-width: 2px;
+    border-style: dotted;
+    border-color: white;
+    border-radius: 50%;
+    
+}
+
+
+
+
+
+
+
+
+
 @-webkit-keyframes spin-right {
   100% {
     -webkit-transform: rotate(360deg);
@@ -331,3 +371,16 @@ html, body {
           animation: spin-left 20s linear infinite;
     
 }
+
+
+#jupiter-orbit{
+       /* ... your other orbit styles ... */
+     -webkit-animation: spin-left 30s linear infinite;
+     -moz-animation: spin-left 30s linear infinite;
+      -ms-animation: spin-left 30s linear infinite;
+       -o-animation: spin-left 30s linear infinite;
+          animation: spin-left 30s linear infinite;
+    
+}
+
+
