@@ -343,32 +343,32 @@ html, body {
 
 #earth-orbit{
        /* ... your other orbit styles ... */
-     -webkit-animation: spin-left 17s linear infinite;
-     -moz-animation: spin-left 17s linear infinite;
-      -ms-animation: spin-left 17s linear infinite;
-       -o-animation: spin-left 17s linear infinite;
-          animation: spin-left 17s linear infinite;
+     -webkit-animation: spin-left 40s linear infinite;
+     -moz-animation: spin-left 40s linear infinite;
+      -ms-animation: spin-left 40s linear infinite;
+       -o-animation: spin-left 40s linear infinite;
+          animation: spin-left 40s linear infinite;
     
 }
 
 #venus-orbit{
        /* ... your other orbit styles ... */
-     -webkit-animation: spin-right 15s linear infinite;
-     -moz-animation: spin-right 15s linear infinite;
-      -ms-animation: spin-right 15s linear infinite;
-       -o-animation: spin-right 15s linear infinite;
-          animation: spin-right 15s linear infinite;
+     -webkit-animation: spin-right 20s linear infinite;
+     -moz-animation: spin-left 20s linear infinite;
+      -ms-animation: spin-left 20s linear infinite;
+       -o-animation: spin-left 20s linear infinite;
+          animation: spin-left 20s linear infinite;
     
 }
 
 
 #mars-orbit{
        /* ... your other orbit styles ... */
-     -webkit-animation: spin-left 20s linear infinite;
-     -moz-animation: spin-left 20s linear infinite;
-      -ms-animation: spin-left 20s linear infinite;
-       -o-animation: spin-left 20s linear infinite;
-          animation: spin-left 20s linear infinite;
+     -webkit-animation: spin-left 60s linear infinite;
+     -moz-animation: spin-left 60s linear infinite;
+      -ms-animation: spin-left 60s linear infinite;
+       -o-animation: spin-left 60s linear infinite;
+          animation: spin-left 60s linear infinite;
     
 }
 
