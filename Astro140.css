@@ -50,7 +50,8 @@ html, body {
     border-color: white;
     border-radius: 50%;
     
-}#earth {
+}
+#earth {
     /* Style your earth */
     position: absolute; 
     top: 0%;
@@ -266,21 +267,21 @@ html, body {
 
 @-webkit-keyframes spin-left {
   100% {
-    -webkit-transform: rotate(360deg);
-       -moz-transform: rotate(360deg);
-        -ms-transform: rotate(360deg);
-         -o-transform: rotate(360deg);
-            transform: rotate(360deg);
+    -webkit-transform: rotate(-360deg);
+       -moz-transform: rotate(-360deg);
+        -ms-transform: rotate(-360deg);
+         -o-transform: rotate(-360deg);
+            transform: rotate(-360deg);
   }
 }
 
 @-webkit-keyframes spin-left {
   100% {
-    -webkit-transform: rotate(360deg);
-       -moz-transform: rotate(360deg);
-        -ms-transform: rotate(360deg);
-         -o-transform: rotate(360deg);
-            transform: rotate(360deg);
+    -webkit-transform: rotate(-360deg);
+       -moz-transform: rotate(-360deg);
+        -ms-transform: rotate(-360deg);
+         -o-transform: rotate(-360deg);
+            transform: rotate(-360deg);
   }
 
 }
