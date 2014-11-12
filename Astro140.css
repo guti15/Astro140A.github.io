@@ -1,4 +1,5 @@
 
+
 html, body {
     /* The universe takes up all available space */
     width: 100%;
@@ -299,42 +300,42 @@ html, body {
 
 #mercury-orbit{
        /* ... your other orbit styles ... */
-     -webkit-animation: spin-left 12s linear infinite;
-     -moz-animation: spin-left 12s linear infinite;
-      -ms-animation: spin-left 12s linear infinite;
-       -o-animation: spin-left 12s linear infinite;
-          animation: spin-left 12s linear infinite;
+     -webkit-animation: spin-left 15s linear infinite;
+     -moz-animation: spin-left 15s linear infinite;
+      -ms-animation: spin-left 15s linear infinite;
+       -o-animation: spin-left 15s linear infinite;
+          animation: spin-left 15s linear infinite;
     
 }
 
 #earth-orbit{
        /* ... your other orbit styles ... */
-     -webkit-animation: spin-left 40s linear infinite;
-     -moz-animation: spin-left 40s linear infinite;
-      -ms-animation: spin-left 40s linear infinite;
-       -o-animation: spin-left 40s linear infinite;
-          animation: spin-left 40s linear infinite;
+     -webkit-animation: spin-left 55s linear infinite;
+     -moz-animation: spin-left 55s linear infinite;
+      -ms-animation: spin-left 55s linear infinite;
+       -o-animation: spin-left 55s linear infinite;
+          animation: spin-left 55s linear infinite;
     
 }
 
 #venus-orbit{
        /* ... your other orbit styles ... */
-     -webkit-animation: spin-left 20s linear infinite;
-     -moz-animation: spin-left 20s linear infinite;
-      -ms-animation: spin-left 20s linear infinite;
-       -o-animation: spin-left 20s linear infinite;
-          animation: spin-left 20s linear infinite;
+     -webkit-animation: spin-left 30s linear infinite;
+     -moz-animation: spin-left 30s linear infinite;
+      -ms-animation: spin-left 30s linear infinite;
+       -o-animation: spin-left 30s linear infinite;
+          animation: spin-left 30s linear infinite;
     
 }
 
 
 #mars-orbit{
        /* ... your other orbit styles ... */
-     -webkit-animation: spin-left 60s linear infinite;
-     -moz-animation: spin-left 60s linear infinite;
-      -ms-animation: spin-left 60s linear infinite;
-       -o-animation: spin-left 60s linear infinite;
-          animation: spin-left 60s linear infinite;
+     -webkit-animation: spin-left 85s linear infinite;
+     -moz-animation: spin-left 85s linear infinite;
+      -ms-animation: spin-left 85s linear infinite;
+       -o-animation: spin-left 85s linear infinite;
+          animation: spin-left 85s linear infinite;
     
 }
 
